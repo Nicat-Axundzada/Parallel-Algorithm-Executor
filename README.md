@@ -17,7 +17,7 @@ A web-based system to upload, store, and execute parallel algorithms written in 
 - Redis
 - GCC (for compiling C++ code)
 - Gunicorn (for serving the Django application)
-- Docker (optional, for containerization)
+- Docker (for containerization)
 
 ## Installation
 
